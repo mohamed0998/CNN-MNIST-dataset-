@@ -9,3 +9,4 @@ the mnist images have been split into two sets
 60000 images from the training set
 10000 images from the testing set
 we will need to create a validation dataset to set an early stopping mechanism and prevent overfitting
+use the TensorBoard:TensorFlow's visualization toolkit
